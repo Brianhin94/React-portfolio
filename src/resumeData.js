@@ -1,7 +1,7 @@
 let resumeData = {
     "name": "Brian Hinchey",
     "role": "Frontend Developer",
-    "roleDescription": "A driven and well versed Wine expert with a passion for coding. I strive to deliver a product that exceeds a clients expectation in a timely manor that both impresses and creates room for further expansion.",
+    "roleDescription": " A driven and well versed Wine expert with a passion for coding. I strive to deliver a product that exceeds a clients expectation in a timely manor that both impresses and creates room for further expansion.",
     "socialLinks":[
         {
           "name":"linkedin",

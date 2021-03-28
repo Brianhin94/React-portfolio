@@ -7,6 +7,8 @@ export default class Porfolio extends Component {
       <div className="row">
         <div className="twelve columns collapsed">
           <h1>Check Out Some of My Works.</h1>
+         <h2> <a href="https://condescending-joliot-e84edc.netlify.app/">BRAVO HOUSEWIVES</a> </h2>
+         <h3> <a href="https://unruffled-kalam-c1f9cf.netlify.app/">VUE COLOR WHEEL.</a> </h3>
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           {
             resumeData.portfolio && resumeData.portfolio.map((item)=>{
