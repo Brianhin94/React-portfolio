@@ -25,7 +25,7 @@ let resumeData = {
         "YearOfPassing":"2021",
       }, 
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"What i've learned",
     "skills":[
       {
         "skillname":"HTML5"
